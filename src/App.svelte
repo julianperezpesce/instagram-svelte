@@ -19,8 +19,8 @@
 
 <style>
   .header {
-    padding: 30px 0px;
-    align-items: center;
+    padding: 10px 0px;
+    text-align: center;
     justify-content: center;
     background: #111;
   }
